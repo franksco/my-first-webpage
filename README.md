@@ -38,6 +38,7 @@ If user encounters issues or problems please contact Cory Franks or Reed Lambier
 
 ### License
 
-Copyright (c) 2015 Cory Franks, Reed Lambier
+This software is licensed under the MIT License
 
-This software is licensed under the GPL License
+Copyright (c) 2016 Cory Franks, Reed Lambier
+
